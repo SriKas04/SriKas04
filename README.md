@@ -1,16 +1,50 @@
-## Hi there 👋
+👋 Hi, I'm Sriya, an AIML Student and Designer.
+Connect with Me:
 
-<!--
-**SriKas04/SriKas04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn
+ | Instagram
+ | Twitter
+ | Portfolio
+ | Contact Me
 
-Here are some ideas to get you started:
+About Me 🔍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning Python, ML, and Statistics.
+
+Always exploring the latest trends in AI and UI/UX design.
+
+I design clean and intuitive user experiences.
+
+Fun Fact: I love chai, Penpot designing, and learning new tech.
+
+Feel free to ask me anything about AI/ML or design!
+
+<details> <summary><b>What I Do 🚀</b></summary>
+
+AI/ML Mini Projects
+
+Data Analysis
+
+UI/UX Design in Penpot
+
+Hackathon Projects
+
+</details> <details> <summary><b>Tech Stack 🛠️</b></summary>
+
+Languages: Python, SQL
+
+AI/ML: NumPy, Pandas, Scikit-Learn
+
+Design: Penpot, Figma
+
+Tools: Git, VS Code
+
+</details> <details> <summary><b>Projects 📂</b></summary>
+
+Event Discovery Hackathon App
+
+Data Analysis Dashboards
+
+UI/UX Case Studies
+
+</details>
