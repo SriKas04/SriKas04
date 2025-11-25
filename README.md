@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Sriya**, an AIML Student, Designer, and Tech Explorer.
+# Hi 👋, I'm **Sriya**, an AIML Student
 ---
 
 **Connect with Me:**  
@@ -8,31 +8,15 @@
 
 ## About Me 🔍
 
-- I'm currently learning **Python, ML & Statistics**.
-- Always exploring the latest trends in **AI/ML and UI/UX**.
-- I design & build **clean, user-friendly experiences** (Penpot & Figma).
-- **Fun Fact:** I love chai, hackathons, and turning messy data into stories.
-- Feel free to ask me anything about **AI/ML, data, or design**!
+🎓 Aspiring Data Scientist | Marketing Background | UI/UX Designer
+📊 Learning Python, Statistics, and Machine Learning
+💡 Skilled in visual design, Penpot, and user-centered product thinking
+🔍 Interested in data analytics, AI, and interactive UI systems
 
-<details>
-  <summary>What I Do 🚀</summary>
-
-- 🤖 AI/ML mini projects & experiments  
-- 📊 Data analysis and visualizations  
-- 🎨 UI/UX design workflows (Penpot/Figma)  
-- 🧪 A/B testing & hypothesis testing practice  
-- 🏆 Hackathon collaborations
-</details>
-
-<details>
-  <summary>🛠 Tech Stack</summary>
-
-- **Languages:** Python, SQL  
-- **AI/ML:** NumPy, Pandas, scikit-learn  
-- **Visualization:** Matplotlib, Plotly  
-- **Design:** Penpot, Figma  
-- **Tools:** Git, GitHub, VS Code
-</details>
+🌱 Currently learning: Python, SQL, Pandas, AI fundamentals,ADS
+🎨 Tools: Penpot, Figma, Canva, Python, UI/UX workflows
+📚 Projects: Data analysis, event discovery app, marketing insights dashboards
+📩 Reach me: KasturiSriya65@gmail.com
 
 <details>
   <summary>✨ Recent Updates</summary>
