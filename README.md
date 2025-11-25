@@ -1,4 +1,4 @@
-# Hi 👋, I'm *Sriya*, an AIML Student, Designer, and Tech Explorer.
+# Hi 👋, I'm **Sriya**, an AIML Student, Designer, and Tech Explorer.
 ---
 
 **Connect with Me:**  
