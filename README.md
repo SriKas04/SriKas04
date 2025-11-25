@@ -1,8 +1,9 @@
-# Hi 👋, I'm **Sriya**, an AIML Student, Designer, and Tech Explorer.
+# Hi 👋, I'm *Sriya*, an AIML Student, Designer, and Tech Explorer.
 ---
 
 **Connect with Me:**  
-[LinkedIn](www.linkedin.com/in/kasturi-sriya-7a7592302) 
+[Portfolio](#) | [LinkedIn](www.linkedin.com/in/kasturi-sriya-7a7592302) | [Contact me](#)
+
 ---
 
 ## About Me 🔍
@@ -34,19 +35,18 @@
 </details>
 
 <details>
-  <summary>📁 Projects</summary>
-
-- 🚀 **Event Discovery App (Hackathon)** – helps students find inter-college events  
-- 📊 **Marketing Analytics Dashboards** – insights from campaign data  
-- 🎨 **UI/UX Case Studies** – clean, modern interface designs
-</details>
-
-<details>
   <summary>✨ Recent Updates</summary>
 
 - 📒 Practicing **t-tests & hypothesis testing**  
-- 📚 Exploring **AI foundations & ADS **  
+- 📚 Exploring **AI foundations & quantum computing basics**  
 - 🛠 Building small projects to strengthen Python skills
 </details>
+
+---
+
+## What if you like my work? 😍
+
+- ⭐ Star the repositories you like.  
+- ❤️ React to my **[LinkedIn](#)** posts.
 
 ---
