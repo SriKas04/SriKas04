@@ -9,28 +9,37 @@
 ## About Me 🔍
 
 🎓 Aspiring Data Scientist | Marketing Background | UI/UX Designer
+
 📊 Learning Python, Statistics, and Machine Learning
+
 💡 Skilled in visual design, Penpot, and user-centered product thinking
+
 🔍 Interested in data analytics, AI, and interactive UI systems
 
 🌱 Currently learning: Python, SQL, Pandas, AI fundamentals,ADS
+
 🎨 Tools: Penpot, Figma, Canva, Python, UI/UX workflows
-📚 Projects: Data analysis, event discovery app, marketing insights dashboards
+
+📚 Projects: Currently working..
+
 📩 Reach me: KasturiSriya65@gmail.com
 
 <details>
-  <summary>✨ Recent Updates</summary>
+  
+<summary>✨ Recent Updates</summary>
 
-- 📒 Practicing **t-tests & hypothesis testing**  
-- 📚 Exploring **AI foundations & quantum computing basics**  
-- 🛠 Building small projects to strengthen Python skills
+📒 Practicing **t-tests & hypothesis testing**  
+
+📚 Exploring **AI foundations & quantum computing basics**  
+
+🛠 Building small projects to strengthen Python skills
 </details>
 
 ---
 
 ## What if you like my work? 😍
 
-- ⭐ Star the repositories you like.  
-- ❤️ React to my **[LinkedIn](#)** posts.
+⭐ Star the repositories you like.  
+❤️ React to my **[LinkedIn](#)** posts.
 
 ---
