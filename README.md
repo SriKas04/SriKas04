@@ -1,49 +1,52 @@
-👋 Hi, I'm Sriya, an AIML Student, Designer & Tech Explorer!
-🌐 Connect with Me:
+# Hi 👋, I'm **Sriya**, an AIML Student, Designer, and Tech Explorer.
+---
 
-🌟 Portfolio
- | 💼 LinkedIn
- | 📸 Instagram
- | 🐦 Twitter
- | 📩 Contact Me
+**Connect with Me:**  
+[LinkedIn](www.linkedin.com/in/kasturi-sriya-7a7592302) 
+---
 
-🔍 About Me
+## About Me 🔍
 
-🎓 I'm a 3rd-year AIML student passionate about all things AI!
+- I'm currently learning **Python, ML & Statistics**.
+- Always exploring the latest trends in **AI/ML and UI/UX**.
+- I design & build **clean, user-friendly experiences** (Penpot & Figma).
+- **Fun Fact:** I love chai, hackathons, and turning messy data into stories.
+- Feel free to ask me anything about **AI/ML, data, or design**!
 
-🧠 Currently learning Python, Machine Learning & Statistics.
+<details>
+  <summary>What I Do 🚀</summary>
 
-🎨 I love designing clean UI/UX using Penpot & Figma.
-
-🍵 Fun Fact: I survive on chai while debugging and designing!
-
-💬 Ask me anything about AI/ML, design, or creativity—I love helping!
-
-<details> <summary><b>🚀 What I Do</b></summary>
-
-🤖 Build fun AI/ML mini-projects
-
-📊 Explore data & create visual insights
-
-🎨 Craft beautiful UI/UX designs
-
-💡 Participate in hackathons & team projects
-
+- 🤖 AI/ML mini projects & experiments  
+- 📊 Data analysis and visualizations  
+- 🎨 UI/UX design workflows (Penpot/Figma)  
+- 🧪 A/B testing & hypothesis testing practice  
+- 🏆 Hackathon collaborations
 </details>
-<details> <summary><b>🛠️ Tech Stack</b></summary>
 
-💻 Languages: Python, SQL
-🤖 AI/ML: Pandas, NumPy, Scikit-Learn
-🎨 Design: Penpot, Figma
-🧰 Tools: VS Code, Git, GitHub
+<details>
+  <summary>🛠 Tech Stack</summary>
 
+- **Languages:** Python, SQL  
+- **AI/ML:** NumPy, Pandas, scikit-learn  
+- **Visualization:** Matplotlib, Plotly  
+- **Design:** Penpot, Figma  
+- **Tools:** Git, GitHub, VS Code
 </details>
-<details> <summary><b>📂 Projects</b></summary>
 
-🚀 Event Discovery Hackathon App — Find inter-college events easily
+<details>
+  <summary>📁 Projects</summary>
 
-📊 Data Analysis Dashboards — Turning messy data into insights
-
-🎨 UI/UX Case Studies — Clean, modern interface designs
-
+- 🚀 **Event Discovery App (Hackathon)** – helps students find inter-college events  
+- 📊 **Marketing Analytics Dashboards** – insights from campaign data  
+- 🎨 **UI/UX Case Studies** – clean, modern interface designs
 </details>
+
+<details>
+  <summary>✨ Recent Updates</summary>
+
+- 📒 Practicing **t-tests & hypothesis testing**  
+- 📚 Exploring **AI foundations & ADS **  
+- 🛠 Building small projects to strengthen Python skills
+</details>
+
+---
