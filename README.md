@@ -1,50 +1,49 @@
-👋 Hi, I'm Sriya, an AIML Student and Designer.
-Connect with Me:
+👋 Hi, I'm Sriya, an AIML Student, Designer & Tech Explorer!
+🌐 Connect with Me:
 
-LinkedIn
- | Instagram
- | Twitter
- | Portfolio
- | Contact Me
+🌟 Portfolio
+ | 💼 LinkedIn
+ | 📸 Instagram
+ | 🐦 Twitter
+ | 📩 Contact Me
 
-About Me 🔍
+🔍 About Me
 
-I'm currently learning Python, ML, and Statistics.
+🎓 I'm a 3rd-year AIML student passionate about all things AI!
 
-Always exploring the latest trends in AI and UI/UX design.
+🧠 Currently learning Python, Machine Learning & Statistics.
 
-I design clean and intuitive user experiences.
+🎨 I love designing clean UI/UX using Penpot & Figma.
 
-Fun Fact: I love chai, Penpot designing, and learning new tech.
+🍵 Fun Fact: I survive on chai while debugging and designing!
 
-Feel free to ask me anything about AI/ML or design!
+💬 Ask me anything about AI/ML, design, or creativity—I love helping!
 
-<details> <summary><b>What I Do 🚀</b></summary>
+<details> <summary><b>🚀 What I Do</b></summary>
 
-AI/ML Mini Projects
+🤖 Build fun AI/ML mini-projects
 
-Data Analysis
+📊 Explore data & create visual insights
 
-UI/UX Design in Penpot
+🎨 Craft beautiful UI/UX designs
 
-Hackathon Projects
+💡 Participate in hackathons & team projects
 
-</details> <details> <summary><b>Tech Stack 🛠️</b></summary>
+</details>
+<details> <summary><b>🛠️ Tech Stack</b></summary>
 
-Languages: Python, SQL
+💻 Languages: Python, SQL
+🤖 AI/ML: Pandas, NumPy, Scikit-Learn
+🎨 Design: Penpot, Figma
+🧰 Tools: VS Code, Git, GitHub
 
-AI/ML: NumPy, Pandas, Scikit-Learn
+</details>
+<details> <summary><b>📂 Projects</b></summary>
 
-Design: Penpot, Figma
+🚀 Event Discovery Hackathon App — Find inter-college events easily
 
-Tools: Git, VS Code
+📊 Data Analysis Dashboards — Turning messy data into insights
 
-</details> <details> <summary><b>Projects 📂</b></summary>
-
-Event Discovery Hackathon App
-
-Data Analysis Dashboards
-
-UI/UX Case Studies
+🎨 UI/UX Case Studies — Clean, modern interface designs
 
 </details>
