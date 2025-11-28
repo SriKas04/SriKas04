@@ -8,7 +8,7 @@
 
 ## About Me 🔍
 
-🎓 Aspiring Data Scientist | Marketing Background | UI/UX Designer
+🎓 Aspiring COmputer Science Student 
 
 📊 Learning Python, Statistics, and Machine Learning
 
@@ -16,7 +16,7 @@
 
 🔍 Interested in data analytics, AI, and interactive UI systems
 
-🌱 Currently learning: Python, SQL, Pandas, AI fundamentals,ADS
+🌱 Currently learning: SQL, Pandas, AI fundamentals, ADS
 
 🎨 Tools: Penpot, Figma, Canva, Python, UI/UX workflows
 
@@ -30,7 +30,7 @@
 
 📒 Practicing **t-tests & hypothesis testing**  
 
-📚 Exploring **AI foundations & quantum computing basics**  
+📚 Exploring **AI foundations & Ml basics**  
 
 🛠 Building small projects to strengthen Python skills
 </details>
